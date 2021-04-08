@@ -1,5 +1,5 @@
 '''
-A set of useful function to manipulate Oxford Nanopore fast5 files, preprocess
+A set of useful functions to manipulate Oxford Nanopore fast5 files, preprocess
 them and to train DNN models.
 '''
 
